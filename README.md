@@ -121,4 +121,4 @@ Courier and fulfilment analysis improves shipment success rates, identifies bott
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/GoondlaBalaji/sales_Dashboard/blob/main/Screenshot%202025-05-21%20175533.png)
+Example: ![Dashboard Preview](https://github.com/GoondlaBalaji/Amazon/blob/main/Screenshot%202025-05-26%20154249.png)
